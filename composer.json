@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "pragmarx/ia-collection": "dev-laravel9-support as ^7.0",
+        "pragmarx/ia-collection": "dev-laravel9-support as 7.3.0",
         "pragmarx/ia-str": "~5.0|~6.0|~7.0",
         "pragmarx/ia-arr": "dev-laravel9-support as ~5.0|~6.0|~7.0"
     },
