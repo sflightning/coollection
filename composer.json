@@ -36,7 +36,7 @@
         },
         {
             "type": "vcs",
-            "url": "https://github.com/sflightning/ia-collection"
+            "url": "https://github.com/sflightning/ia-collection/tree/laravel9-support"
         }
 
     ],
