@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=7.0",
-        "pragmarx/ia-collection": "dev-laravel9-support as 7.3.0",
+        "pragmarx/ia-collection": "master-laravel9-support",
         "pragmarx/ia-str": "~5.0|~6.0|~7.0",
         "pragmarx/ia-arr": "dev-laravel9-support as ~5.0|~6.0|~7.0"
     },
@@ -32,11 +32,12 @@
      "repositories": [
         {
             "type": "vcs",
-            "url": "https://github.com/sflightning/ia-arr"
+             "url": "https://github.com/sflightning/ia-collection"
+            
         },
         {
             "type": "vcs",
-            "url": "https://github.com/sflightning/ia-collection/tree/laravel9-support"
+            "url": "https://github.com/sflightning/ia-arr"
         }
 
     ],
